@@ -1,5 +1,5 @@
 
-![Banner Github](https://user-images.githubusercontent.com/83803328/186322754-3eb949e0-0781-4c60-a3c0-9c784ab63641.png)
+![Banner Github](https://user-images.githubusercontent.com/83803328/186500645-00a303d4-584c-4992-b913-bf68d7c0ba23.png)
 
 # Mi viaje hacia el diseño web
 
