@@ -2,14 +2,14 @@
 
 ![danny-front-builder-banner](https://github.com/d4nnym/d4nnym/assets/83803328/4c36c499-7e25-435b-ae2b-8a06f4ba1eeb)
 
-# ¡Hola! Soy Danny y estoy encantado de tenerte aquí.
+# ¡Hola! Soy Danny y estoy encantado de tenerte aquí. 👋🏽
 
 **Después de explorar varias áreas de estudio, me enamoré del desarrollo frontend. Estoy en un viaje en la programación web desde hace más de dos años.**
 
-- [Twitter](https://twitter.com/dannymatute_) 
-- [Codepen](https://codepen.io/d4nnym)
-- [Frontend Mentor](https://www.frontendmentor.io/profile/d4nnym)
-- [Danny—FrontBuilder](dannyfrontbuilder.dev) - En construción 🔨
+- [Twitter](https://twitter.com/dannymatute_) @dannymatute_
+- [Codepen](https://codepen.io/d4nnym) @d4nnym
+- [Frontend Mentor](https://www.frontendmentor.io/profile/d4nnym) @d4nnym
+- [Danny Front Builder](dannyfrontbuilder.dev) - En construción 🔨
 
 ## Conocimientos y habilidades ☕
 
