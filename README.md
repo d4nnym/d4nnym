@@ -1,24 +1,28 @@
 
-![Banner@0 25x](https://user-images.githubusercontent.com/83803328/186823312-3e8d7a3d-4b56-471d-b43d-86483bd0c961.png)
 
-# Mi viaje al desarrollo frontend 
+![danny-front-builder-banner](https://github.com/d4nnym/d4nnym/assets/83803328/4c36c499-7e25-435b-ae2b-8a06f4ba1eeb)
 
-Hola, mi nombre es Danny ¡Un placer tenerte aquí!
+# ¡Hola! Soy Danny y estoy encantado de tenerte aquí.
 
-Después de una lucha para elegir un área de estudio, me enamoré del desarrollo frontend. Actualmente me embarqué en un viaje por la programación web y tengo más de un año aprendiendo sobre ello. 
+**Después de explorar varias áreas de estudio, me enamoré del desarrollo frontend. Estoy en un viaje en la programación web desde hace más de dos años.**
 
-## Un poco más sobre mi 
+- [Twitter](https://twitter.com/dannymatute_) 
+- [Codepen](https://codepen.io/d4nnym)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/d4nnym)
+- [Danny—FrontBuilder](dannyfrontbuilder.dev) - En construción 🔨
 
-- Actualmente me estoy formando en React.
-- Trabajo con SASS 
-- Estudio mi último año en ingeniería en sistemas
-- A lo largo de mi carrera he trabajado con herramientas como Java y Spring Boot, Python, .NET, NodeJS, SQL Server y MongoDB. Sin embargo, me enfoco mucho en el frontend.
-- Para mejorar mis habilidades como programador, trabajo con Frontend Mentor
+## Conocimientos y habilidades ☕
 
-## Mi pasión por el diseño
+![danny-react-card](https://github.com/d4nnym/d4nnym/assets/83803328/f842489b-8e19-4264-9e43-86382036ff78) ![danny-sass-card](https://github.com/d4nnym/d4nnym/assets/83803328/19a5af88-ce8c-4449-80a4-b83aae6dc17a)
 
-Desde que escuché por primera vez la palabra UX, me entró mucha curiosidad por conocer más sobre el área; inmediatamente tomé mucho interés por esta rama.
-  
-- En mis tiempos libres, estudio el Certificado profesional de Diseño de Experiencia del Usuario (UX) de Google impartido en Coursera.
-- Para mejorar la productividad de mis proyectos, trabajo mis prototipos con Adobe XD 
+Estoy en el último año de mi carrera de Ingeniería en Sistemas. Además, cuento con conocimientos en back-end y bases de datos. Sin embargo, en este momento, mi enfoque principal está dirigido hacia el front-end. 
+Estoy trabajando en mejorar mis habilidades en programación a través de Frontend Mentor.
 
+
+## Próximos pasos ⌨️
+
+- Consumir APIs
+- Nextjs
+
+**Danny Matute** 
+Contactame: **dannyhmatute@gmail.com** 📧
