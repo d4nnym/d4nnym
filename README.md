@@ -1,28 +1,31 @@
-
-
-![danny-front-builder-banner](https://github.com/d4nnym/d4nnym/assets/83803328/4c36c499-7e25-435b-ae2b-8a06f4ba1eeb)
+<img width="1920" height="960" alt="danny software developer" src="https://github.com/user-attachments/assets/5ade8c19-3e55-47f5-88a0-34b41dd1c926" />
 
 # ¡Hola! Soy Danny y estoy encantado de tenerte aquí. 👋🏽
 
-**Después de explorar varias áreas de estudio, me enamoré del desarrollo frontend. Estoy en un viaje en la programación web desde hace más de dos años.**
-
-- [Twitter](https://twitter.com/dannymatute_) @dannymatute_
+- [Github](https://github.com/d4nnym) @d4nnym
 - [Codepen](https://codepen.io/d4nnym) @d4nnym
-- [Frontend Mentor](https://www.frontendmentor.io/profile/d4nnym) @d4nnym
+- [Enviar correo](mailto:dannyhmatue@gmail.com) Hablemos un poco ✌🏽
 - [Danny Front Builder](https://www.dannyfrontbuilder.dev) - En construción 🔨
 
 ## Conocimientos y habilidades ☕
 
-![danny-react-card](https://github.com/d4nnym/d4nnym/assets/83803328/f842489b-8e19-4264-9e43-86382036ff78) ![danny-sass-card](https://github.com/d4nnym/d4nnym/assets/83803328/19a5af88-ce8c-4449-80a4-b83aae6dc17a)
+Desarrollador de Aplicaciones con Oracle Apex
 
-Estoy en el último año de mi carrera de Ingeniería en Sistemas. Además, cuento con conocimientos en back-end y bases de datos. Sin embargo, en este momento, mi enfoque principal está dirigido hacia el front-end. 
-Estoy trabajando en mejorar mis habilidades en programación a través de Frontend Mentor.
+Soy desarrollador de aplicaciones enfocado en Oracle APEX y Oracle Database, creando soluciones que ayudan a manejar datos de forma práctica y eficiente. Me encargo de armar formularios, reportes y módulos que facilitan el trabajo del día a día y mejoran la experiencia de los usuarios. También estoy metiéndome de lleno en C# y .NET para conectar aplicaciones backend con Oracle y seguir creciendo como desarrollador backend.
 
+## Lo que hago
+- Desarrollo de aplicaciones en Oracle APEX
+- Diseño y construcción de formularios para ingreso y gestión de datos
+- Elaboración de reportes y estadísticas basados en datos empresariales
+- Mantenimiento y administración de bases de datos Oracle
+- Implementación de HTML, CSS y JavaScript dentro de Oracle APEX
+- Desarrollo de APIs y lógica backend con .NET y C# (en aprendizaje y crecimiento)
 
-## Próximos pasos ⌨️
-
-- Consumir APIs
-- Nextjs
-
-**Danny Matute** 
-Contactame: **dannyhmatute@gmail.com** 📧
+## </> Herramientas y Tecnologías
+- Oracle Database
+- Oracle APEX
+- PL/SQL
+- JasperSoft Studio
+- Figma
+- HTML / CSS / JavaScript
+- C# (.NET) – en crecimiento profesional
